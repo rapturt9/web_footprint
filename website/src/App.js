@@ -145,7 +145,7 @@ function App() {
       </Grid.Column>
       </Grid>
       <Divider/>
-      <a>Get the chrome extension today!</a>
+      <a href="https://chrome.google.com/webstore/detail/web-footprint/dimpnnnfelinjcklppppoggihlibphce?hl=en">Get the chrome extension today!</a>
       </center>
     </Segment>
   );
