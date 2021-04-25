@@ -15,3 +15,9 @@ It finds the bytes transferred over every network request and takes the sum of t
 It is estimated that powering digital devices (computers and smartphones) and the supporting infrastructures (communication networks and data centres) consumed about 5% of global electricity use in 2012.
 
 And since then, internet use and the corresponding carbon footprint have been increasing. Most of this electricity isn't produced from clean energy, so there is a large environmental impact. So, by tracking your carbon footprint on the web, hopefully, it will make you more mindful of your web surfing!
+
+# Code details
+
+The chrome extension is made using vanilla javascript, html, and css with the chrome storage and devtools api. This was also my first time making a chrome extension, so it was a new experience!
+
+The website is made with React.js along with the semantic UI library so it looks nicer. Though, it is a very simple and straightforward webpage.
